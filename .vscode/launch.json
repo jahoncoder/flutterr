@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "birinvhi_dasturim",
+            "cwd": "birinvhi_dasturim",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "birinvhi_dasturim (profile mode)",
+            "cwd": "birinvhi_dasturim",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "birinvhi_dasturim (release mode)",
+            "cwd": "birinvhi_dasturim",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
